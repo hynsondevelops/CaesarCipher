@@ -58,6 +58,3 @@ def caesar_cipher_tests()
 		puts "Passed all unit tests!"
 	end
 end
-
-
-caesar_cipher_tests
